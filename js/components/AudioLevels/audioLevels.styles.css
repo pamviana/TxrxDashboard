@@ -1,0 +1,28 @@
+.audio-levels-title label {
+  color: #f8f8f8;
+  font-size: 15px;
+  margin: 0 1rem;
+}
+
+.audio-values {
+  display: flex;
+  gap: 30px;
+}
+
+.audio-value-yellow {
+  color: #d8c734 !important;
+}
+
+.audio-value-red {
+  color: #ff4141 !important;
+}
+
+.audio-value-green {
+  color: #7ed834 !important;
+}
+
+.audio-labels {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}

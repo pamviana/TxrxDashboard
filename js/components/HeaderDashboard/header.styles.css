@@ -1,0 +1,16 @@
+.header-dashboard {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+    border-bottom: 1px solid #f8f8f840;
+    margin-bottom: 2rem;
+    padding-bottom: 0.5rem;
+}
+.logo-dashboard{
+    width: 4rem;
+}
+
+.title-dashboard h1 {
+    font-size: 1rem;
+    color: #f8f8f8;
+}

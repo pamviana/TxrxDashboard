@@ -1,0 +1,28 @@
+.output-boxes, .output-no-label-boxes{
+    color: #f8f8f8;
+    background-color: rgba(73, 73, 73, 0.376);
+    border-radius: 3px;
+    padding: 0.5rem 1.5rem;
+    margin: 0.5rem 0;
+}
+
+.output-boxes label{
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    margin:0;
+}
+
+.output-boxes p, .output-no-label-boxes p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: lighter;
+    color: #f8f8f8; 
+    margin: 0;
+    margin-top: 2rem;
+}
+
+.output-no-label-boxes p {
+    margin: 0;
+    font-size: 16px;
+}

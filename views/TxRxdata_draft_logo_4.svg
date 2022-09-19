@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="768" height="1024" viewBox="0, 0, 768, 1024">
+  <g id="Arrow_Work">
+    <g>
+      <path d="M357.574,462.5 L328.799,512.553" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      <path d="M328.707,512.553 L357.667,562.5" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+    </g>
+    <g>
+      <path d="M411.426,562.5 L440.201,512.447" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      <path d="M440.293,512.447 L411.333,462.5" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+    </g>
+  </g>
+  <g id="Arrows_on_Logo">
+    <g>
+      <g>
+        <path d="M234.1,462.5 L205.325,512.553" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+        <path d="M205.233,512.553 L234.193,562.5" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      </g>
+      <g>
+        <path d="M287.952,562.5 L316.727,512.447" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+        <path d="M316.819,512.447 L287.859,462.5" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path d="M361.987,389.426 L412.041,418.201" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+        <path d="M412.041,418.293 L461.987,389.333" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      </g>
+      <g>
+        <path d="M461.987,335.574 L411.934,306.799" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+        <path d="M411.934,306.707 L361.987,335.667" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path d="M361.987,681.426 L412.041,710.201" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+        <path d="M412.041,710.293 L461.987,681.333" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      </g>
+      <g>
+        <path d="M461.987,627.574 L411.934,598.799" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+        <path d="M411.934,598.707 L361.987,627.667" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path d="M537.1,471.708 L508.325,521.761" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+        <path d="M508.233,521.761 L537.193,571.708" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      </g>
+      <g>
+        <path d="M590.952,571.708 L619.727,521.654" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+        <path d="M619.819,521.654 L590.859,471.708" fill-opacity="0" stroke="#000000" stroke-width="15" stroke-linecap="round" display="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="Arrows_Thin">
+    <g>
+      <g>
+        <path d="M602.278,462.5 L573.503,512.553" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M573.411,512.553 L602.371,562.5" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+      <g>
+        <path d="M637.13,562.5 L665.905,512.446" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M665.997,512.446 L637.037,462.5" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path d="M182.281,462.5 L153.506,512.553" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M153.414,512.553 L182.374,562.5" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+      <g>
+        <path d="M217.133,562.5 L245.908,512.446" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M246,512.446 L217.04,462.5" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path d="M273.832,373.211 L331.495,370.323" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M331.544,370.4 L357.874,319.018" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+      <g>
+        <path d="M339.065,289.789 L281.401,292.678" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M281.352,292.6 L255.022,343.982" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path d="M482.28,740.849 L540.012,740.311" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M540.059,740.39 L568.459,690.123" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+      <g>
+        <path d="M550.855,660.151 L493.122,660.69" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M493.075,660.611 L464.676,710.877" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path d="M464.831,320.23 L492.471,370.919" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M492.422,370.998 L550.141,372.406" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+      <g>
+        <path d="M568.304,342.77 L540.664,292.08" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M540.712,292.002 L482.994,290.594" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <path d="M254.712,689.23 L282.351,739.919" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M282.303,739.998 L340.022,741.406" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+      <g>
+        <path d="M358.185,711.77 L330.544,661.08" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+        <path d="M330.593,661.002 L272.875,659.594" fill-opacity="0" stroke="#000000" stroke-width="8" stroke-linecap="round"/>
+      </g>
+    </g>
+  </g>
+  <g id="Dots">
+    <path d="M446,521.208 C440.477,521.208 436,516.731 436,511.208 C436,505.685 440.477,501.208 446,501.208 C451.523,501.208 456,505.685 456,511.208 C456,516.731 451.523,521.208 446,521.208 z" fill="#000000" display="none"/>
+    <path d="M411.987,522.5 C406.464,522.5 401.987,518.023 401.987,512.5 C401.987,506.977 406.464,502.5 411.987,502.5 C417.51,502.5 421.987,506.977 421.987,512.5 C421.987,518.023 417.51,522.5 411.987,522.5 z" fill-opacity="0" stroke="#000000" stroke-width="3" stroke-dasharray="9,6" display="none"/>
+    <path d="M376.975,521.208 C371.452,521.208 366.975,516.731 366.975,511.208 C366.975,505.685 371.452,501.208 376.975,501.208 C382.498,501.208 386.975,505.685 386.975,511.208 C386.975,516.731 382.498,521.208 376.975,521.208 z" fill="#000000" display="none"/>
+    <path d="M411.487,488.053 C405.964,488.053 401.487,483.576 401.487,478.053 C401.487,472.53 405.964,468.053 411.487,468.053 C417.01,468.053 421.487,472.53 421.487,478.053 C421.487,483.576 417.01,488.053 411.487,488.053 z" fill="#000000" display="none"/>
+    <path d="M411.487,555.947 C405.964,555.947 401.487,551.47 401.487,545.947 C401.487,540.424 405.964,535.947 411.487,535.947 C417.01,535.947 421.487,540.424 421.487,545.947 C421.487,551.47 417.01,555.947 411.487,555.947 z" fill="#000000" display="none"/>
+  </g>
+  <g id="TxRxD">
+    <text transform="matrix(1, 0, 0, 1, 411.987, 511.208)" display="none">
+      <tspan x="-70.303" y="27" font-family="OpenSans-Semibold" font-size="72" fill="#0067A5">TRD</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 411.448, 517)">
+      <tspan x="-62.311" y="77" font-family="OpenSans-Semibold" font-size="200" fill="#162154">X</tspan>
+    </text>
+  </g>
+  <g id="TxRx__Data" display="none">
+    <text transform="matrix(1, 0, 0, 1, 291.245, 847.275)">
+      <tspan x="-17.478" y="22.5" font-family="OpenSans-Semibold" font-size="60" fill="#000000">T</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 323.163, 847.275)">
+      <tspan x="-15.441" y="22.5" font-family="OpenSans-Light" font-size="60" fill="#000000">x</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 357.28, 847.275)">
+      <tspan x="-19.675" y="22.5" font-family="OpenSans-Semibold" font-size="60" fill="#000000">R</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 391.396, 847.275)">
+      <tspan x="-15.441" y="22.5" font-family="OpenSans-Light" font-size="60" fill="#000000">x </tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 443.941, 847.275)">
+      <tspan x="-22.517" y="22.5" font-family="OpenSans-Semibold" font-size="60" fill="#000000">D</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 507.793, 847.275)">
+      <tspan x="-42.336" y="22.5" font-family="OpenSans-Light" font-size="60" fill="#000000">ata</tspan>
+    </text>
+  </g>
+  <g id="Border">
+    <path d="M411.448,262.5 C549.52,262.5 661.448,374.429 661.448,512.5 C661.448,650.571 549.52,762.5 411.448,762.5 C273.377,762.5 161.448,650.571 161.448,512.5 C161.448,374.429 273.377,262.5 411.448,262.5 z" fill-opacity="0" stroke="#000000" stroke-width="12" display="none"/>
+    <path d="M260.904,777.75 L110.36,517 L260.904,256.25 L561.992,256.25 L712.536,517 L561.992,777.75 z" fill-opacity="0" stroke="#0067A5" stroke-width="8"/>
+    <path d="M65.673,524.778 L419.227,171.225 L757.224,509.222 L403.67,862.775 L65.673,524.778 z" fill-opacity="0" stroke="#000000" stroke-width="10" display="none"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+.sucess__alert__wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #00000094;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sucess__alert__box {
+  background-color: #fff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 8%;
+}
+
+.sucess__alert__box p {
+  color: #000;
+  font-size: 24px;
+}
+
+.close__button {
+  color: #f8f8f8;
+  background-color: #2c5dffd0;
+  border-radius: 3px;
+  border: 0;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 3px 12px;
+}

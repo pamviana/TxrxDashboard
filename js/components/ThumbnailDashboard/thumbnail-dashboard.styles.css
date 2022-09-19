@@ -1,0 +1,14 @@
+
+.thumbnail-picture {
+    width: 230px;
+}
+
+#thumb-img {
+    width: 100%;
+    padding: 5px;
+    background-color: rgba(73, 73, 73, 0.376);
+    box-sizing: border-box;
+    border-radius: 3px;
+    overflow: auto;
+    margin-top: 0.5rem;
+}

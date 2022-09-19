@@ -1,0 +1,31 @@
+body {
+  background-color: #292929;
+  margin: 0;
+  padding: 0;
+}
+
+.dashboard-demo {
+  margin: 0 12%;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+p,
+label,
+button,
+input {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+
+
+
+@media (max-width: 1350px) {
+  .dashboard-demo {
+    margin: 0 10%;
+    margin-bottom: 0;
+  }
+}

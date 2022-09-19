@@ -1,0 +1,22 @@
+h1{
+    margin: 0;
+}
+.home-page-section {
+    background-color: #090121;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    z-index: 0;
+}
+
+.back-img{
+    background-image: url('../../../../public/TxRx_Data_Arrow_Rotated_Blue_Eye_shutterstock_221710816.svg');
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.3;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    z-index: -1;
+}
